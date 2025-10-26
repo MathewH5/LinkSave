@@ -1,0 +1,28 @@
+{
+  "promocoes": [
+    {
+      "id": 1,
+      "titulo": "Fone Bluetooth Premium",
+      "descricao": "Som cristalino com cancelamento de ruído ativo e bateria de 30h",
+      "precoAntigo": 499,
+      "precoAtual": 249,
+      "imagemUrl": "assets/images/fone.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Smartphone Galaxy Pro",
+      "descricao": "Tela AMOLED 6.5”, câmera 108MP e 5G ultrarrápido",
+      "precoAntigo": 2999,
+      "precoAtual": 1899,
+      "imagemUrl": "assets/images/galaxy.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Tênis Esportivo Runner",
+      "descricao": "Tecnologia de amortecimento avançada para máximo conforto",
+      "precoAntigo": 599,
+      "precoAtual": 299,
+      "imagemUrl": "assets/images/tenis.jpg"
+    }
+  ]
+}
